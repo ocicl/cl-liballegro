@@ -4,6 +4,6 @@ Common Lisp bindings and interface to the Allegro 5 game programming library
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/resttime/cl-liballegro.git |
-| commit  | ae0b9eb                                           |
+| commit  | 04714ac                                           |
 | systems | cl-liballegro                                     |
 |---------+---------------------------------------------------|
