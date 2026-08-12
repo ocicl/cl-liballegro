@@ -7,4 +7,4 @@ Common Lisp bindings and interface to the Allegro 5 game programming library
 | commit  | e707891                                           |
 | systems | cl-liballegro                                     |
 |---------+---------------------------------------------------|
- 
+  
